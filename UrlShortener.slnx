@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Orchestrator/Orchestrator.csproj" />
+  <Project Path="ToolServer/ToolServer.csproj" />
+</Solution>

@@ -1,0 +1,22 @@
+# Build output
+bin/
+obj/
+
+# SQLite database
+*.db
+*.db-shm
+*.db-wal
+
+# Audit log (runtime artifact)
+audit.log
+
+# VS artifacts
+.vs/
+*.user
+
+# Environment / secrets
+.env
+*.env
+
+# Stage output files (runtime artifacts)
+output_*.md
